@@ -1,0 +1,200 @@
+
+
+.sticky {
+	display: block;
+}
+
+.hentry {
+	margin: 0 0 1.5em;
+}
+
+.byline,
+.updated:not(.published){
+	display: none;
+}
+
+.single .byline,
+.group-blog .byline {
+	display: inline;
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+	margin: 0.5em 0 1.5em;
+}
+
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+}
+
+.logo-wrap{
+    float: left;
+}
+.logo-wrap img{
+    float: left;
+    width: 120px;
+    height: 120px
+}
+.tagline{
+    color: #fff;
+    float: left;
+    font-size: 24px;
+    margin-left: 25px;
+    padding: 40px 0 0;
+}
+.left-content{
+    width: 67%;
+    margin-right: 3%;
+    float: left;
+}
+.right-content{
+    width: 30%;
+    float: right;
+    color: #526ACD;
+    font-style: italic;
+}
+.right-content .textwidget{
+    color: #526ACD;
+    font-style: italic;
+}
+.banner img{
+    margin: 30px 0;
+    height: auto;
+    width: 100%;
+}
+.entry-title a{
+    color: #6A7ED4
+}
+.entry-title a:hover{
+    color: #000
+}
+.entry-meta {
+    color: #7ED009
+}
+.read-more a{
+    background: #7ED009;
+    color:#fff;
+    padding: 10px 20px
+}
+.nav-links a{
+    color: #7ED009
+}
+.column-left{
+    float: left;
+    width: 60%;
+    margin-right: 5%;
+}
+.column-right{
+    float: right;
+    width: 35%;
+    margin-bottom: 20px;
+}
+.column-left h1{
+    color: #413E73;
+    float: left;
+    margin-bottom: 30px;
+}
+.column-left img{
+    margin-bottom: 30px;
+}
+.featured-thumbnail {
+    float: left;
+    margin-right: 20px;
+}
+.featured-thumbnail img{
+    height: 100px;
+    width: 120px;
+}
+.entry-header{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.post-content{
+
+}
+.read-more{
+   margin: 20px 0;
+}
+.channel h2{
+    color: #6A5ACD;
+    background-color: #F7F7F7;
+    border-left: 5px solid #9ACD32;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.channel ul li{
+    margin-left: 15px;
+    list-style:disc;
+}
+.channel a{
+    color: #585684;
+}
+.channel a:hover{
+    color: #000;
+}
+.signup{
+    background-color: #484848;
+    padding: 15px 0;
+    text-align: center;
+    
+}
+.signup h2{
+   color: #fff;
+    text-transform: uppercase;
+}
+.signup a{
+    background-color: #8339B2;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 15px;
+    padding: 8px
+}
+.family-share {
+    overflow: hidden;
+}
+.family-share h2{
+    font-size: 28px;
+    color: #413E73;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.family-share span{
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin-right: 5%;
+}
+.family-share span img{
+    margin-bottom: 30px;
+}
+.family-share span:last-child{
+    margin-right: 0;
+}
+.episodes span{
+    display: inline-block;
+    margin-right: 2.5%;
+    width: 22.8%;
+    margin: 20px 0;
+    
+}
+.episodes h2{
+    color: #4D4A7C;
+
+}
+.episodes img{
+   margin:20px 0;
+}
+.episodes span:nth-child(4n){
+    margin-right: 0;
+}
+.free-membership a{
+    background-color: #7DD108;
+}
+.textwidget{
+    border-bottom: 5px solid #7ED009;
+}
